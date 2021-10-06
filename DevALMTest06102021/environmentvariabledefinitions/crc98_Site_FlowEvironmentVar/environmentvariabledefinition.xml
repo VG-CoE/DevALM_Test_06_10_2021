@@ -1,0 +1,11 @@
+<environmentvariabledefinition schemaname="crc98_Site_FlowEvironmentVar">
+  <apiid>/providers/microsoft.powerapps/apis/shared_sharepointonline</apiid>
+  <displayname default="Site_FlowEvironmentVar">
+    <label description="Site_FlowEvironmentVar" languagecode="1033" />
+  </displayname>
+  <introducedversion>1.0.0.0</introducedversion>
+  <iscustomizable>1</iscustomizable>
+  <isrequired>0</isrequired>
+  <parameterkey>dataset</parameterkey>
+  <type>100000004</type>
+</environmentvariabledefinition>

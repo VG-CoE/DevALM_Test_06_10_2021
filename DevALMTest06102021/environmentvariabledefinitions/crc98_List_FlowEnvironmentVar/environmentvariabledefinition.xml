@@ -1,0 +1,14 @@
+<environmentvariabledefinition schemaname="crc98_List_FlowEnvironmentVar">
+  <apiid>/providers/microsoft.powerapps/apis/shared_sharepointonline</apiid>
+  <displayname default="List_FlowEnvironmentVar">
+    <label description="List_FlowEnvironmentVar" languagecode="1033" />
+  </displayname>
+  <introducedversion>1.0.0.0</introducedversion>
+  <iscustomizable>1</iscustomizable>
+  <isrequired>0</isrequired>
+  <parameterkey>table</parameterkey>
+  <parentdefinitionid>
+    <schemaname>crc98_Site_FlowEvironmentVar</schemaname>
+  </parentdefinitionid>
+  <type>100000004</type>
+</environmentvariabledefinition>
